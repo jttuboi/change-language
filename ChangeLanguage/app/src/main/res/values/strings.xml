@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Change Language</string>
+    <string name="word">Hello World</string>
+</resources>
